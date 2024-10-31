@@ -1,0 +1,3 @@
+redblob 0 0 50 30
+greenblob 129 0 50 30
+blueblob 244 0 50 30
